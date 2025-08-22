@@ -16,7 +16,7 @@
 也可以在元素中获取后台的地址去作为URL
 
 
-##重要的一点，要有headers
+## 重要的一点，要有headers
 <img width="382" height="313" alt="Snipaste_2025-07-30_13-49-30" src="https://github.com/user-attachments/assets/1e0ce62e-0c9a-4c69-b6e2-4a0b06902e75" />
 
 加入tkinter可以以后更方便下载
