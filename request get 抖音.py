@@ -35,7 +35,7 @@ root.title("抖音视频下载器")
 root.geometry("400x300")  # 设置窗口大小
 # 设置窗口图标
 try:   
-    root.iconbitmap(r"D:\党培祥\进阶\抖音\android-download_icon-icons.com_50526.ico")  # 如果有图标文件，可以取消注释
+    root.iconbitmap(r"D:\党培祥\进阶\抖音\android-download_icon-icons.com_50526.ico") 
 except:
     pass
 # 视频的URL输入框
